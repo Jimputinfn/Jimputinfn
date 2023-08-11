@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Jimputinfn
-- 👀 I’m interested in modding
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Developing
+
   
-- 📫 How to reach me ...
+- 📫 How to reach me
+- Discord: Jimputin or Jimputin#7770
 
 <!---
 Jimputinfn/Jimputinfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
