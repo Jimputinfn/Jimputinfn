@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jimputinfn
-- 👀 I’m interested in Developing
+- 👀 I’m interested in Developing OS
 
   
 - 📫 How to reach me
