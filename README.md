@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jimputinfn
-- 👀 I’m developing KUSE WIZARD
+- 👀 I’m currently working on KUSE WIZARD
 
   
 - 📫 How to reach me
