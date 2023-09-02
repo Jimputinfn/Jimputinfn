@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jimputinfn
-- 👀 I’m interested in Developing OS
+- 👀 I’m developing KUSE WIZARD
 
   
 - 📫 How to reach me
