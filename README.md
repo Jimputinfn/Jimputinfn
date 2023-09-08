@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jimputinfn
-- 👀 I’m currently working on KUSE WIZARD
+- 👀 I’m currently working on FiremanOS Maker
 
   
 - 📫 How to reach me
