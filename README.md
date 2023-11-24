@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Jimputinfn
-- 👀 I’m currently working on FiremanOS Maker
-
-  
-- 📫 How to reach me
-- Discord: Jimputin or Jimputin#7770
+Hi i am Jimputin. iam from finland and i like to code.
+I am currently working on making FesterBrowser Better.
+My Discord is jimputin.
 
 <!---
 Jimputinfn/Jimputinfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
