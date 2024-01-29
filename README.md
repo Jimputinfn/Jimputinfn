@@ -1,5 +1,5 @@
 
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hey you there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 <a href="https://twitter.com/contisgameshq" target="blank"><img align="center" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/jimputin" target="blank"><img align="center" src="https://imgs.search.brave.com/aYDbT53L_Y0Q626d5pzeVdz-qwIG7WRuzG7YLTkhwBY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/bG9nb2pveS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEw/NDIyMDk1MDM3L2Rp/c2NvcmQtbWFzY290/LnBuZw" alt="apoorv#4040" height="30" width="30" /></a>&nbsp;
