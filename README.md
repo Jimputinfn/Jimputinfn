@@ -9,7 +9,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎮 I'm game developer from finland🇫🇮 
-     
+- 🌐 Interested in FOSS
 - 🐧Linux enthusiast
 - 💻 I know how to code in: C#, C++, Batch
 
