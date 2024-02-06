@@ -11,12 +11,13 @@
 - 🎮 I'm game developer from finland🇫🇮 
 - 🌐 FOSS Applications are best
 - 🐧Linux enthusiast
-- 💻 I know how to code in: C#, C++, Batch
-I am Currently Working On:
-- FesterBrowser
-- ArchPackages
-- Kitty Configs
-- Neofetch Configs
+- 💻 I know how to code in: C#, C++, Batch <br>
+ <br>
+- I am Currently Working On:  <br>
+- FesterBrowser  <br>
+- ArchPackages  <br>
+- Kitty Configs  <br>
+- Neofetch Configs  <br>
 
 ---
 /> My Github Stats:
