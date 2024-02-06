@@ -12,7 +12,11 @@
 - 🌐 FOSS Applications are best
 - 🐧Linux enthusiast
 - 💻 I know how to code in: C#, C++, Batch
-
+I am Currently Working On:
+- FesterBrowser
+- ArchPackages
+- Kitty Configs
+- Neofetch Configs
 
 ---
 /> My Github Stats:
