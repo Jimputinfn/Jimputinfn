@@ -16,8 +16,7 @@
 - I am Currently Working On:  <br>
 - FesterBrowser  <br>
 - ArchPackages  <br>
-- Kitty Configs  <br>
-- Neofetch Configs  <br>
+
 
 ---
 /> My Github Stats:
