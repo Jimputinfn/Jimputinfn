@@ -9,13 +9,13 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎮 I'm game developer from finland🇫🇮 
-- 🐧Linux enthusiast
-- 💻 I know how to code in: C#, C++, Batch <br>
+- 🐧Linux User
+- 💻 I know how to code in: C#, C++, Batch and lua <br>
  <br>
 - I am Currently Working On:  <br>
-- FesterBrowser  <br>
-- ArchPackages  <br>
-- Website <br>
+- SoapRP  <br>
+- Neofetch fork  <br>
+- Empty <br>
 
 ---
 /> My Github Stats:
@@ -40,6 +40,6 @@ neofetch
     /\   <br />  \       Packages: 1060   <br />
    /     <br />   \       Shell: bash   <br />
   /   ,  <br />,   \       WM: KWin   <br />
- /   |   <br /> |  -\     Terminal: kitty   <br />
+ /   |   <br /> |  -\     Terminal: Alacritty   <br />
 /_-''    <br />  ''-_\     Memory: 3169MiB / 15906MiB   <br />
 
