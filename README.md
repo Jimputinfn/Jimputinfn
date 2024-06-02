@@ -36,10 +36,10 @@
 `
 neofetch
       /  <br />\          jimputin@jimputin-linux   <br />
-     /   <br /> \         OS: EndeavourOS   <br />
-    /\   <br />  \       Packages: 1060   <br />
+     /   <br /> \         OS: Arch Linux   <br />
+    /\   <br />  \       Packages: 974   <br />
    /     <br />   \       Shell: bash   <br />
-  /   ,  <br />,   \       WM: KWin   <br />
- /   |   <br /> |  -\     Terminal: Alacritty   <br />
+  /   ,  <br />,   \       WM: Hyprland   <br />
+ /   |   <br /> |  -\     Terminal: Kitty   <br />
 /_-''    <br />  ''-_\     Memory: 3169MiB / 15906MiB   <br />
 
