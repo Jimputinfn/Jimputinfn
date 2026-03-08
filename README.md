@@ -22,7 +22,7 @@
 
 ### 💡 Currently Working On
 - **eBilling** – Most advanced billing system for hosting companies  
-- **Eliana** – Discord bot packed with tons of commands  
+- [Elysian Code](https://github.com/Jimputinfn/elysiancode) – Discord bot packed with tons of commands  
 - 🧀 Cheese? (Always under development 😏)  
 
 ---
