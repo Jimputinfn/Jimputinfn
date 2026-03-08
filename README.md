@@ -22,8 +22,8 @@
 
 ### 💡 Currently Working On
 - **eBilling** – Most advanced billing system for hosting companies  
-- [Elysian Code](https://github.com/Jimputinfn/elysiancode) – Discord bot packed with tons of commands  
-- 🧀 Cheese? (Always under development 😏)  
+- [Elysian Code](https://github.com/Jimputinfn/elysiancode) – Advanced code editor with bit of AI stuff.  
+- [ElysianAI-app](github.com/ElysianNodes/elysianai-app)  A modern Electron wrapper for the ElysianAI web application. 
 
 ---
 
